@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.0",
+  "option_operagx_next_version": "0.0.0.1",
+  "option_operagx_game_name": "ciccio the game",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "7aa92085-50be-4787-8c26-6f47c663427d",
+  "option_operagx_team_name": "(29fa5ccc-8ece-4d5b-a65d-10c23baaac05) studio",
+  "option_operagx_team_id": "29fa5ccc-8ece-4d5b-a65d-10c23baaac05",
+  "option_operagx_editUrl": "https://create.gx.games/game/7aa92085-50be-4787-8c26-6f47c663427d/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
